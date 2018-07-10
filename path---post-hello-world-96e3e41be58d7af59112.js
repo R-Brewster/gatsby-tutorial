@@ -1,0 +1,2 @@
+webpackJsonp([0x9132716db65f],{347:function(t,e){t.exports={data:{wordpressPost:{title:"Hello world!",content:"<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n",acf:{facebook:"my-facebook",twitter:"my-twitter"}},site:{siteMetadata:{title:"Wordpress Gatsby",subtitle:"Fetch Data From Local WP Install"}}},pathContext:{id:"2347739f-f4fa-5d13-8eac-4a0059e4ff82"}}}});
+//# sourceMappingURL=path---post-hello-world-96e3e41be58d7af59112.js.map

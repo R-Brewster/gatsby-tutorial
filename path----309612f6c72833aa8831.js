@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{102:function(e,t){e.exports={data:{allWordpressWpApiMenusMenusItems:{edges:[{node:{id:"529f2488-cdf8-5edd-a0b7-ea4ba53f525c",name:"Main menu",items:[{title:"Sample Page",url:"http://local.gatsby-tutorial.com/sample-page/",object_slug:"sample-page"},{title:"Posts",url:"#",object_slug:"posts"}]}}]}},layoutContext:{}}}});
+//# sourceMappingURL=path----309612f6c72833aa8831.js.map
